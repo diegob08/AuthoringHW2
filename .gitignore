@@ -1,0 +1,7 @@
+#### IGNORE ALL OF THW FOLLOWING FILES AND FOLDERS ####
+
+node_modules
+.DS_Store
+
+*.psd
+assets/

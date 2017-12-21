@@ -1,0 +1,28 @@
+{
+  "name": "authoringhw2",
+  "version": "1.0.0",
+  "description": "grunt HW2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegob08/AuthoringHW2.git"
+  },
+  "keywords": [
+    "Grunt",
+    "files"
+  ],
+  "author": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegob08/AuthoringHW2/issues"
+  },
+  "homepage": "https://github.com/diegob08/AuthoringHW2#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
