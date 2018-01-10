@@ -35,6 +35,7 @@ module.exports = function(grunt){
       }
     },
 
+<<<<<<< HEAD
       sass: {
         dist:{
           options : {
@@ -46,14 +47,24 @@ module.exports = function(grunt){
         }
       }
     }
+=======
+>>>>>>> f53bf113066f2e5590d7e9e3a763b6694fe88707
 });
 
 grunt.loadNpmTasks('grunt-contrib-concat');
 grunt.loadNpmTasks('grunt-contrib-uglify');
 grunt.loadNpmTasks('grunt-contrib-watch');
+<<<<<<< HEAD
 grunt.loadNpmTasks('grunt-contrib-sass');
 
 
 grunt.registerTask('default', ['concat', 'uglify']);
 grunt.registerTask('watchFiles', ['watch','sass']);
+=======
+
+
+
+grunt.registerTask('default', ['concat', 'uglify']);
+grunt.registerTask('watchFiles', ['watch']);
+>>>>>>> f53bf113066f2e5590d7e9e3a763b6694fe88707
 };

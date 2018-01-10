@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 ##### WE CAN IGNORE ALL OF THIS #####
 
 
 node_modules
 .DS_Store
+=======
+#### IGNORE ALL OF THW FOLLOWING FILES AND FOLDERS ####
+
+node_modules
+.DS_Store
+
+*.psd
+assets/
+>>>>>>> f53bf113066f2e5590d7e9e3a763b6694fe88707

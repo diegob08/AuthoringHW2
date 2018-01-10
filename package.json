@@ -1,13 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "c",
   "version": "1.0.0",
   "description": "test grunt",
+=======
+  "name": "authoringhw2",
+  "version": "1.0.0",
+  "description": "grunt HW2",
+>>>>>>> f53bf113066f2e5590d7e9e3a763b6694fe88707
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/diegob08/test-grunt-week-12.git"
   },
   "keywords": [
@@ -27,4 +34,23 @@
   },
   "homepage": "https://github.com/diegob08/test-grunt-week-12#readme",
   "devDependencies": {}
+=======
+    "url": "git+https://github.com/diegob08/AuthoringHW2.git"
+  },
+  "keywords": [
+    "Grunt",
+    "files"
+  ],
+  "author": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegob08/AuthoringHW2/issues"
+  },
+  "homepage": "https://github.com/diegob08/AuthoringHW2#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+>>>>>>> f53bf113066f2e5590d7e9e3a763b6694fe88707
 }
