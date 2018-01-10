@@ -1,6 +1,8 @@
 
 git clone https://github.com/diegob08/AuthoringHW2.git
+
 install npm modules with npm install
+
 install grunt tasks : concat, uglify, watch
 
 <<<<<<< HEAD
